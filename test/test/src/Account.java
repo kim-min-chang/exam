@@ -3,4 +3,7 @@ public class Account {
     private int balance;
     private String accountNo;
 
+    public String getAccountNo() {
+        return accountNo;
+    }
 }
